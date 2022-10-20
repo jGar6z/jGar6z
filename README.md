@@ -8,12 +8,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgar6z&show_icons=true&theme=github_dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="html-icon" height="35" width="70" href="https://github.com/jgar6z" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css-icon" height="35" width="70" href="https://github.com/jgar6z" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="js-icon" height="35" width="80" href="https://github.com/jgar6z" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="insta-icon" height="35" width="80" href="https://www.instagram.com/jgar6_/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <img align="center" alt="linkedin-icon" height="35" width="80" href="https://www.linkedin.com/in/garc%C3%AAs-neto/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img align="center" alt="gmail-icon" height="35" width="70" href="mailto:gaces.neto2020@gmail.com?subject=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20perfil%20GitHub!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://github.com/jgar6z">
+    <img align="center" alt="html-icon" height="35" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://github.com/jgar6z">
+    <img align="center" alt="css-icon" height="35" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <a href="https://github.com/jgar6z">
+    <img align="center" alt="js-icon" height="35" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <a href="https://www.instagram.com/jgar6_/">
+    <img align="center" alt="insta-icon" height="35" width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/garc%C3%AAs-neto/">
+    <img align="center" alt="linkedin-icon" height="35" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gaces.neto2020@gmail.com?subject=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20perfil%20GitHub!">
+    <img align="center" alt="gmail-icon" height="35" width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=120&section=footer">
