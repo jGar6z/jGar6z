@@ -1,6 +1,6 @@
 ## Olá, eu sou José Garcês e trabalho como Desenvolvedor Web e Designer Gráfico
 <div align="center", style:"display: flex; flex-direction: row">
-  <a href:"https://github.com/jGar6z"></a>
+  <a href="https://github.com/jgar6z">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgar6z&layout=compact&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgar6z&show_icons=true&theme=github_dark"/>
 </div>
